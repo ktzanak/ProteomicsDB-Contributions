@@ -1,0 +1,407 @@
+1751528732 | konstantinos.tzanakis@tum.de | 2025-07-03 | pushed to branch 'Expression-tab-for-cell-line-view' | the protein list is emitted from the child component
+1751528639 | konstantinos.tzanakis@tum.de | 2025-07-03 | pushed to branch 'Expression-tab-for-cell-line-view' | initialize the celllineExpressionHistogram
+1751447703 | konstantinos.tzanakis@tum.de | 2025-07-02 | pushed to branch 'Expression-tab-for-cell-line-view' | adjusted reference of xsodata service since now it also calls for e...
+1751366860 | konstantinos.tzanakis@tum.de | 2025-07-01 | pushed to branch 'Expression-tab-for-cell-line-view' | adjusted the expression view to cell-line
+1751285517 | konstantinos.tzanakis@tum.de | 2025-06-30 | pushed to branch 'Expression-tab-for-cell-line-view' | replaced xsodata service with an updated one
+1751025757 | konstantinos.tzanakis@tum.de | 2025-06-27 | pushed to branch 'Expression-tab-for-cell-line-view' | added post-processing for responses
+1750928845 | konstantinos.tzanakis@tum.de | 2025-06-26 | pushed to branch 'Expression-tab-for-cell-line-view' | created the xsodata service for cell-line expression
+1750861841 | konstantinos.tzanakis@tum.de | 2025-06-25 | pushed to branch 'Expression-tab-for-cell-line-view' | removed unecessary notes and comments
+1750861608 | konstantinos.tzanakis@tum.de | 2025-06-25 | pushed to branch 'Expression-tab-for-cell-line-view' | adjusted the requests to take cellLine_id as input param
+1750763138 | konstantinos.tzanakis@tum.de | 2025-06-24 | pushed to branch 'Expression-tab-for-cell-line-view' | added findOmicTypesAndUnits xsodata service
+1750679134 | konstantinos.tzanakis@tum.de | 2025-06-23 | pushed to branch 'Expression-tab-for-cell-line-view' | removed bodymap references and code
+1750403006 | konstantinos.tzanakis@tum.de | 2025-06-20 | pushed to branch 'Expression-tab-for-cell-line-view' | removed unecessary code since we do not need the body map
+1750253423 | konstantinos.tzanakis@tum.de | 2025-06-18 | pushed to branch 'Expression-tab-for-cell-line-view' | initializing cellExpression module
+1750151249 | konstantinos.tzanakis@tum.de | 2025-06-17 | pushed to branch 'Expression-tab-for-cell-line-view' | initialization of the cell line expression view
+1750150489 | konstantinos.tzanakis@tum.de | 2025-06-17 | pushed to branch 'Expression-tab-for-cell-line-view' | included cellExpression in the modules and tabs
+1750074648 | konstantinos.tzanakis@tum.de | 2025-06-16 | pushed to branch 'Expression-tab-for-cell-line-view' | added cell Expression in the routes
+1749722219 | konstantinos.tzanakis@tum.de | 2025-06-12 | pushed to branch 'Meltome-tab-for-cell-line-view' | xsodata service does not take null as filter so we filter the response
+1749721142 | konstantinos.tzanakis@tum.de | 2025-06-12 | pushed to branch 'Meltome-tab-for-cell-line-view' | added filter for treatment because AssayType not equal to PDB:101019
+1749654348 | konstantinos.tzanakis@tum.de | 2025-06-11 | pushed new branch 'Expression-tab-for-cell-line-view' | -
+1749543171 | konstantinos.tzanakis@tum.de | 2025-06-10 | pushed to branch 'Meltome-tab-for-cell-line-view' | Finalized view of the Meltome tab for cell-line
+1749543097 | konstantinos.tzanakis@tum.de | 2025-06-10 | pushed to branch 'Meltome-tab-for-cell-line-view' | restructured the post processing of Cell-line Meltome data
+1749204983 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Meltome-tab-for-cell-line-view' | added protein selection
+1749204645 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Turnover-tab-for-cell-line-view' | changed proteininfo to celllineId
+1749204462 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Meltome-tab-for-cell-line-view' | initializing meltome view
+1749204392 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Meltome-tab-for-cell-line-view' | initialized meltome js for melting responses
+1749201624 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Turnover-tab-for-cell-line-view' | removed default values from CAs
+1749201590 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Turnover-tab-for-cell-line-view' | removed default values from CAs
+1749201493 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Turnover-tab-for-cell-line-view' | updated the endpoints for the turnoverMeltome service
+1749201441 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Turnover-tab-for-cell-line-view' | renamed turnoverxsodata service to turnoverMeltome as it can be use...
+1749199196 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Meltome-tab-for-cell-line-view' | added meltome in the index of modules
+1749199143 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed to branch 'Meltome-tab-for-cell-line-view' | added meltome in the router index
+1749197153 | konstantinos.tzanakis@tum.de | 2025-06-06 | pushed new branch 'Meltome-tab-for-cell-line-view' | -
+1749110289 | konstantinos.tzanakis@tum.de | 2025-06-05 | pushed to branch 'Turnover-tab-for-cell-line-view' | added protein selection and adjusted view for cell line turnonver
+1749110094 | konstantinos.tzanakis@tum.de | 2025-06-05 | pushed to branch 'Turnover-tab-for-cell-line-view' | added proteinGeneName, group by proteinId and converted strings to ...
+1749035614 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | gave privileges to the new calculation views
+1749035414 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | created a wrapper for the treatment tissue to filter by cellline id
+1749035371 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | added cellline id in the treatment tissue CA
+1749035299 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | created a wrapper for the protein expression to filter by cellline id
+1749035241 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | added protein name and cellline id in the protein expression CA
+1749035175 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | created a wrapper for the fitted params to filter by cellline id
+1749035114 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | added cellline id in the fitted params CA
+1749035051 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | created a wrapper for the curve properties to filter by cellline id
+1749034968 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | modified curve properties CA to get cellineID too
+1749034819 | konstantinos.tzanakis@tum.de | 2025-06-04 | pushed to branch 'Turnover-tab-for-cell-line-view' | created xsodata service for turnover
+1748956490 | konstantinos.tzanakis@tum.de | 2025-06-03 | pushed to branch 'Turnover-tab-for-cell-line-view' | added postprocessing for curve properties
+1748874658 | konstantinos.tzanakis@tum.de | 2025-06-02 | pushed to branch 'Turnover-tab-for-cell-line-view' | configuring the getters for the cell-line
+1748600138 | konstantinos.tzanakis@tum.de | 2025-05-30 | pushed to branch 'Turnover-tab-for-cell-line-view' | added post processing for responsefitparams
+1748599669 | konstantinos.tzanakis@tum.de | 2025-05-30 | pushed to branch 'Turnover-tab-for-cell-line-view' | added all four wrappers for turnover
+1748431291 | konstantinos.tzanakis@tum.de | 2025-05-28 | pushed to branch 'Turnover-tab-for-cell-line-view' | fixed name of turnover in index page
+1748355448 | konstantinos.tzanakis@tum.de | 2025-05-27 | pushed to branch 'Turnover-tab-for-cell-line-view' | initialize turnover view as it is for a protein
+1748262988 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Turnover-tab-for-cell-line-view' | removed comments
+1748262937 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Turnover-tab-for-cell-line-view' | add turnover module in index
+1748262868 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Turnover-tab-for-cell-line-view' | add turnover module
+1748262724 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Turnover-tab-for-cell-line-view' | creating the route for turnover
+1748255398 | konstantinos.tzanakis@tum.de | 2025-05-26 | commented on branch 'Cell perturbation for cell line view' | Note
+1748254531 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | just changed the position of upstream_kinases
+1748254482 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | changed R2 from measure to attribute
+1748254435 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | just changed the position of upstream_kinases
+1748254332 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | just changed the syntax a bit, it makes 0 difference
+1748254278 | konstantinos.tzanakis@tum.de | 2025-05-26 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | we use numberic and name and not second_dimension
+1747993886 | konstantinos.tzanakis@tum.de | 2025-05-23 | commented on branch 'Cell perturbation for cell line view' | Note
+1747992099 | konstantinos.tzanakis@tum.de | 2025-05-23 | pushed new branch 'Turnover-tab-for-cell-line-view' | -
+1747900761 | konstantinos.tzanakis@tum.de | 2025-05-22 | opened branch 'Cell perturbation for cell line view' | MergeRequest
+1747900350 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | adjusted comments
+1747900307 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | removed console logs
+1747900215 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | created the ddfp table
+1747900161 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | created the peptide level table
+1747900120 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | created the protein level table
+1747900027 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | added the protein and peptideLevelData logic
+1747899937 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | added the the-cell-line-ddptm-table-protein to the parent view
+1747899839 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | moved the druglist from watch to computed methods
+1747899706 | konstantinos.tzanakis@tum.de | 2025-05-22 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | removed console log
+1747831461 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | modified the protein curves to pass down the cellline_id and drug_id
+1747830507 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | created a cube view for fp data in cell line view
+1747830452 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | modified worker to accept cellline_id and drug_id
+1747830283 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | created a cube view for ptm data protein level in cell line view
+1747830207 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | created a cube view for ptm data peptide level in cell line view
+1747830106 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | modified the peptide curves to pass down the cellline_id and drug_id
+1747830030 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | modified worker to accept cellline_id and drug_id
+1747828235 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | gave privileges to the three new calculation views
+1747828178 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | created the service for PTM protein level data
+1747828111 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | corrected the name of the CA queried
+1747828031 | konstantinos.tzanakis@tum.de | 2025-05-21 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | removed comments
+1747751226 | konstantinos.tzanakis@tum.de | 2025-05-20 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | combi drugs needs to be checked
+1747667772 | konstantinos.tzanakis@tum.de | 2025-05-19 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | changed druglist to a computed property instead of watch
+1747667658 | konstantinos.tzanakis@tum.de | 2025-05-19 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | changed druglist to a computed property instead of watch
+1747403291 | konstantinos.tzanakis@tum.de | 2025-05-16 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | initialized the ddPTM interface
+1747146935 | konstantinos.tzanakis@tum.de | 2025-05-13 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | console log for debugging purposes
+1747146897 | konstantinos.tzanakis@tum.de | 2025-05-13 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | console log for debugging purposes
+1747058691 | konstantinos.tzanakis@tum.de | 2025-05-12 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | initialize the xsodata service of ddPTM
+1746713455 | konstantinos.tzanakis@tum.de | 2025-05-08 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | initialize the service for the dd ptm tab of the cell line view
+1746628338 | konstantinos.tzanakis@tum.de | 2025-05-07 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | added the xsodata service for ddFP
+1746541982 | konstantinos.tzanakis@tum.de | 2025-05-06 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | creating the xsodata endpoint for ddFP in cell lines
+1746453444 | konstantinos.tzanakis@tum.de | 2025-05-05 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | xsodata service for cell lines ddFP
+1746024949 | konstantinos.tzanakis@tum.de | 2025-04-30 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | changed names of the xsodata files
+1745920526 | konstantinos.tzanakis@tum.de | 2025-04-29 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | added ddPtm module for cell perturbation of cell lines
+1745920476 | konstantinos.tzanakis@tum.de | 2025-04-29 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | added ddFP module
+1745917300 | konstantinos.tzanakis@tum.de | 2025-04-29 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | removed fragments that dont exist to avoid errors
+1744892887 | konstantinos.tzanakis@tum.de | 2025-04-17 | commented on branch 'Endpoints for unique identifier' | Note
+1744892528 | konstantinos.tzanakis@tum.de | 2025-04-17 | pushed to branch 'endpoints-for-unique-identifier' | added the ensemble gene and transcript IDs in the PROTEIN_NAMES
+1744891973 | konstantinos.tzanakis@tum.de | 2025-04-17 | pushed to branch 'endpoints-for-unique-identifier' | returning code layout to how it was
+1744891749 | konstantinos.tzanakis@tum.de | 2025-04-17 | pushed to branch 'endpoints-for-unique-identifier' | deleted the files I had started since we will not go via triplestore
+1744891414 | konstantinos.tzanakis@tum.de | 2025-04-17 | pushed to branch 'endpoints-for-unique-identifier' | removed unecessary comments and code since we will go via proteinSe...
+1744891305 | konstantinos.tzanakis@tum.de | 2025-04-17 | pushed to branch 'endpoints-for-unique-identifier' | removed unecessary comments and code
+1744807189 | konstantinos.tzanakis@tum.de | 2025-04-16 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | removed cellLineSensitivityTab
+1744726760 | konstantinos.tzanakis@tum.de | 2025-04-15 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | xsjs ddFP endpoint for DDFPCellLine
+1744726447 | konstantinos.tzanakis@tum.de | 2025-04-15 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | removed helpKey for cell line ddptm and ddfp
+1744618705 | konstantinos.tzanakis@tum.de | 2025-04-14 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | included cell perturbation in the UI
+1744618645 | konstantinos.tzanakis@tum.de | 2025-04-14 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | added the routes in cell line view for ddPTMs and ddFP
+1744368225 | konstantinos.tzanakis@tum.de | 2025-04-11 | pushed new branch 'Cell-Perturbation-for-cell-line-view' | -
+1744359373 | konstantinos.tzanakis@tum.de | 2025-04-11 | pushed to branch 'endpoints-for-unique-identifier' | the genericSearch component is rendered but hidden until the right ...
+1744359135 | konstantinos.tzanakis@tum.de | 2025-04-11 | pushed to branch 'endpoints-for-unique-identifier' | commented out stuff not needed if we go via proteinSearch table
+1744286879 | konstantinos.tzanakis@tum.de | 2025-04-10 | pushed to branch 'endpoints-for-unique-identifier' | reconfigured the sql queries in case needed - if we decide to go th...
+1744286805 | konstantinos.tzanakis@tum.de | 2025-04-10 | pushed to branch 'endpoints-for-unique-identifier' | commented out all changes in proteinwrapper temporarily
+1744286730 | konstantinos.tzanakis@tum.de | 2025-04-10 | pushed to branch 'endpoints-for-unique-identifier' | added control in the protein endpoint to check the url before redir...
+1744207793 | konstantinos.tzanakis@tum.de | 2025-04-09 | pushed to branch 'endpoints-for-unique-identifier' | adding some comments
+1744122072 | konstantinos.tzanakis@tum.de | 2025-04-08 | pushed to branch 'endpoints-for-unique-identifier' | adding parent_protein_id filter and converting subqueries to joins ...
+1744025591 | konstantinos.tzanakis@tum.de | 2025-04-07 | pushed to branch 'endpoints-for-unique-identifier' | configuring the sql queries - DONOTTESTHANA
+1744025538 | konstantinos.tzanakis@tum.de | 2025-04-07 | pushed to branch 'endpoints-for-unique-identifier' | configuring xsjs with the unknown to that time identifier
+1743769180 | konstantinos.tzanakis@tum.de | 2025-04-04 | pushed to branch 'endpoints-for-unique-identifier' | initialize xsjslib file - DONOTTESTHANA
+1743768659 | konstantinos.tzanakis@tum.de | 2025-04-04 | pushed to branch 'endpoints-for-unique-identifier' | initialize xsjs file - DONOTTESTHANA
+1743686380 | konstantinos.tzanakis@tum.de | 2025-04-03 | pushed to branch 'endpoints-for-unique-identifier' | removed comment
+1743686324 | konstantinos.tzanakis@tum.de | 2025-04-03 | pushed to branch 'endpoints-for-unique-identifier' | initialize function for triple store request
+1743515345 | konstantinos.tzanakis@tum.de | 2025-04-01 | pushed to branch 'endpoints-for-unique-identifier' | adding test for proteinwrapper - DONOTTESTHANA
+1743515249 | konstantinos.tzanakis@tum.de | 2025-04-01 | pushed to branch 'endpoints-for-unique-identifier' | adding a testing endpoint
+1743161096 | konstantinos.tzanakis@tum.de | 2025-03-28 | pushed to branch 'endpoints-for-unique-identifier' | we have to go through triple store tables instead of protein
+1743065140 | konstantinos.tzanakis@tum.de | 2025-03-27 | pushed to branch 'endpoints-for-unique-identifier' | resolved conflict in protein wrapper
+1742897021 | konstantinos.tzanakis@tum.de | 2025-03-25 | opened branch 'Resolve "Changing-tab-in-proteinSummary-repeats-requests"' | MergeRequest
+1742892893 | konstantinos.tzanakis@tum.de | 2025-03-25 | pushed to branch '1970-changing-tab-in-proteinsummary-repeats-requests' | Merge branch 'develop' into Changing-tab-in-proteinSummary-repeats-...
+1742892030 | konstantinos.tzanakis@tum.de | 2025-03-25 | pushed new branch '1970-changing-tab-in-proteinsummary-repeats-requests' | -
+1742891917 | konstantinos.tzanakis@tum.de | 2025-03-25 | opened branch 'Changing-tab-in-proteinSummary-repeats-requests' | Issue
+1742821322 | konstantinos.tzanakis@tum.de | 2025-03-24 | commented on branch 'Endpoints for unique identifier' | DiscussionNote
+1742819610 | konstantinos.tzanakis@tum.de | 2025-03-24 | commented on branch 'Endpoints for unique identifier' | DiscussionNote
+1742803687 | konstantinos.tzanakis@tum.de | 2025-03-24 | opened branch 'Until the title is loaded, it shows Loading...' | MergeRequest
+1742546362 | konstantinos.tzanakis@tum.de | 2025-03-21 | pushed to branch '1968-undefined-title-when-loading-any-protein-in-summary-tab' | Until the title is loaded, it shows Loading...
+1742544554 | konstantinos.tzanakis@tum.de | 2025-03-21 | pushed new branch '1968-undefined-title-when-loading-any-protein-in-summary-tab' | -
+1742475173 | konstantinos.tzanakis@tum.de | 2025-03-20 | opened branch 'Undefined title when loading any protein in summary tab' | Issue
+1742310155 | konstantinos.tzanakis@tum.de | 2025-03-18 | opened branch 'Endpoints for unique identifier' | MergeRequest
+1742195818 | konstantinos.tzanakis@tum.de | 2025-03-17 | pushed to branch 'endpoints-for-unique-identifier' | removing comments
+1741964176 | konstantinos.tzanakis@tum.de | 2025-03-14 | pushed to branch 'endpoints-for-unique-identifier' | Added mapping of UNIQUE_IDENTIFIER and ENTRY_NAME to proteinId
+1741878463 | konstantinos.tzanakis@tum.de | 2025-03-13 | pushed to branch 'endpoints-for-unique-identifier' | triplestore information
+1741784035 | konstantinos.tzanakis@tum.de | 2025-03-12 | pushed to branch 'endpoints-for-unique-identifier' | comment for next step
+1741698364 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch 'endpoints-for-unique-identifier' | Checking if the proteinId contains letters
+1741698312 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch 'endpoints-for-unique-identifier' | Function to map the identifier to protein id
+1741690667 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed new branch 'endpoints-for-unique-identifier' | -
+1741690484 | konstantinos.tzanakis@tum.de | 2025-03-11 | opened branch 'Resolve "NewsImporter does not fetch the news"' | MergeRequest
+1741690009 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch '1960-newsimporter-does-not-fetch-the-news' | changing the request url to the host ip
+1741689975 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch '1960-newsimporter-does-not-fetch-the-news' | changing the request url to the host ip
+1741689903 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch '1960-newsimporter-does-not-fetch-the-news' | define the new env variable
+1741689844 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch '1960-newsimporter-does-not-fetch-the-news' | passing the new env var to runtime
+1741689784 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch '1960-newsimporter-does-not-fetch-the-news' | pass the new var at runtime
+1741689721 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed to branch '1960-newsimporter-does-not-fetch-the-news' | adding the VITE_API_URL variable with the host ip
+1741688379 | konstantinos.tzanakis@tum.de | 2025-03-11 | pushed new branch '1960-newsimporter-does-not-fetch-the-news' | -
+1741621271 | konstantinos.tzanakis@tum.de | 2025-03-10 | opened branch 'NewsImporter does not fetch the news' | Issue
+1741251710 | konstantinos.tzanakis@tum.de | 2025-03-06 | opened branch 'Resolve "News page gives not found error when refreshing the page"' | MergeRequest
+1741251302 | konstantinos.tzanakis@tum.de | 2025-03-06 | opened branch 'News table main panel' | MergeRequest
+1741251189 | konstantinos.tzanakis@tum.de | 2025-03-06 | pushed to branch '1957-news-page-gives-not-found-error-when-refreshing-the-page' | no need for the else statement
+1741251084 | konstantinos.tzanakis@tum.de | 2025-03-06 | pushed to branch '1957-news-page-gives-not-found-error-when-refreshing-the-page' | adding the loading overlay on the news table - also at home page
+1741251010 | konstantinos.tzanakis@tum.de | 2025-03-06 | pushed to branch '1957-news-page-gives-not-found-error-when-refreshing-the-page' | re-ordering the news route
+1741250418 | konstantinos.tzanakis@tum.de | 2025-03-06 | pushed new branch '1957-news-page-gives-not-found-error-when-refreshing-the-page' | -
+1741250401 | konstantinos.tzanakis@tum.de | 2025-03-06 | opened branch 'News page gives not found error when refreshing the page' | Issue
+1741163978 | konstantinos.tzanakis@tum.de | 2025-03-05 | pushed to branch 'news-table-main-panel' | added the ui for editing a news record
+1741163914 | konstantinos.tzanakis@tum.de | 2025-03-05 | pushed to branch 'news-table-main-panel' | added the functions for editing news - production and staging
+1741163865 | konstantinos.tzanakis@tum.de | 2025-03-05 | pushed to branch 'news-table-main-panel' | added the endpoint for editing news records
+1741079804 | konstantinos.tzanakis@tum.de | 2025-03-04 | deleted branch '1927-traffic-lights-system-for-proteinsearch-table' | -
+1741078257 | konstantinos.tzanakis@tum.de | 2025-03-04 | pushed to branch 'news-table-main-panel' | added delete funcionality and partial edit
+1741078075 | konstantinos.tzanakis@tum.de | 2025-03-04 | pushed to branch 'news-table-main-panel' | added delete functions
+1741078033 | konstantinos.tzanakis@tum.de | 2025-03-04 | pushed to branch 'news-table-main-panel' | added delete endpoint
+1741019669 | konstantinos.tzanakis@tum.de | 2025-03-03 | pushed to branch 'news-table-main-panel' | removing spaces
+1740993677 | konstantinos.tzanakis@tum.de | 2025-03-03 | pushed to branch 'news-table-main-panel' | adding the sanitizehtml function
+1740993635 | konstantinos.tzanakis@tum.de | 2025-03-03 | pushed to branch 'news-table-main-panel' | adding the new package dependencies
+1740754943 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | updated json
+1740754879 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | sanitize is missing
+1740750713 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | reconfigured the table
+1740750651 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | added the fetch news python function
+1740732311 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | updated news-frontend packages
+1740732192 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | vite config with comments
+1740732143 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | frontend dockerfile with comments
+1740732097 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | docker compose with comments
+1740731687 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | adding the endpoint for the newstable
+1740731622 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | adding the fetch news function in python
+1740731529 | konstantinos.tzanakis@tum.de | 2025-02-28 | pushed to branch 'news-table-main-panel' | adding the fetch news function in vue
+1740652206 | konstantinos.tzanakis@tum.de | 2025-02-27 | pushed to branch 'news-table-main-panel' | restyling the main panel
+1740652150 | konstantinos.tzanakis@tum.de | 2025-02-27 | pushed to branch 'news-table-main-panel' | adding a back button in the newsedittable
+1740652119 | konstantinos.tzanakis@tum.de | 2025-02-27 | pushed to branch 'news-table-main-panel' | adding a back button
+1740584187 | konstantinos.tzanakis@tum.de | 2025-02-26 | pushed to branch 'news-table-main-panel' | env vars for real time changes
+1740387572 | konstantinos.tzanakis@tum.de | 2025-02-24 | pushed to branch 'news-table-main-panel' | added component and paths in index page
+1740387402 | konstantinos.tzanakis@tum.de | 2025-02-24 | pushed to branch 'news-table-main-panel' | adding the links for the import news and edit news
+1740134264 | konstantinos.tzanakis@tum.de | 2025-02-21 | pushed to branch 'news-table-main-panel' | remove old file
+1740134043 | konstantinos.tzanakis@tum.de | 2025-02-21 | pushed to branch 'news-table-main-panel' | modified the table for the news
+1740061320 | konstantinos.tzanakis@tum.de | 2025-02-20 | pushed to branch 'news-table-main-panel' | configuring elements positions
+1739955575 | konstantinos.tzanakis@tum.de | 2025-02-19 | pushed to branch 'news-table-main-panel' | adding the news main panel file
+1739955513 | konstantinos.tzanakis@tum.de | 2025-02-19 | pushed to branch 'news-table-main-panel' | configured index for newsmainpanel as default page after authentica...
+1739955454 | konstantinos.tzanakis@tum.de | 2025-02-19 | pushed to branch 'news-table-main-panel' | reconfigured login to redirect to the main panel
+1739870121 | konstantinos.tzanakis@tum.de | 2025-02-18 | pushed to branch 'news-table-main-panel' | Adding the table for the news
+1739803123 | konstantinos.tzanakis@tum.de | 2025-02-17 | pushed to branch 'news-table-main-panel' | adding code for the table
+1739802375 | konstantinos.tzanakis@tum.de | 2025-02-17 | pushed to branch 'news-table-main-panel' | adding the vue file for the table news
+1739516733 | konstantinos.tzanakis@tum.de | 2025-02-14 | opened branch 'Resolve "Traffic lights system for ProteinSearch table"' | MergeRequest
+1739459997 | konstantinos.tzanakis@tum.de | 2025-02-13 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | added the two columns in the CA and edited the sql script
+1739459914 | konstantinos.tzanakis@tum.de | 2025-02-13 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | finalized the columns and removed debugging and comments
+1739450767 | konstantinos.tzanakis@tum.de | 2025-02-13 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | console log for debugging
+1739355404 | konstantinos.tzanakis@tum.de | 2025-02-12 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | Merge branch 'develop' into 1927-traffic-lights-system-for-proteins...
+1739353780 | konstantinos.tzanakis@tum.de | 2025-02-12 | pushed new branch 'news-table-main-panel' | -
+1739263447 | konstantinos.tzanakis@tum.de | 2025-02-11 | deleted branch '1941-news-importer-ui-improvement' | -
+1739260962 | konstantinos.tzanakis@tum.de | 2025-02-11 | opened branch 'Resolve "News importer UI improvement"' | MergeRequest
+1739258541 | konstantinos.tzanakis@tum.de | 2025-02-11 | pushed to branch '1941-news-importer-ui-improvement' | clearing the fields after successful import
+1739190797 | konstantinos.tzanakis@tum.de | 2025-02-10 | pushed to branch '1941-news-importer-ui-improvement' | new environmental variables
+1738910444 | konstantinos.tzanakis@tum.de | 2025-02-07 | pushed to branch '1941-news-importer-ui-improvement' | removed the heading and added it in the form page
+1738843729 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | removing unecessary comments
+1738843679 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | removing unecessary comments
+1738843494 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | updated package-lock
+1738843382 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | reconfiguring index according to pinia
+1738843320 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | integrating pinia auth
+1738843278 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | removing comments from vite config
+1738843237 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | implementing pinia authentication
+1738843173 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | adding router and authentication to the header
+1738843124 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | adding necessary dependencies
+1738843081 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | passing the env variables through docker
+1738843016 | konstantinos.tzanakis@tum.de | 2025-02-06 | pushed to branch '1941-news-importer-ui-improvement' | finalizing dockerfile for pinia authentication
+1738780393 | konstantinos.tzanakis@tum.de | 2025-02-05 | pushed to branch '1941-news-importer-ui-improvement' | commenting out the mount point
+1738780178 | konstantinos.tzanakis@tum.de | 2025-02-05 | pushed to branch '1941-news-importer-ui-improvement' | reconfiguring docker-compose
+1738654790 | konstantinos.tzanakis@tum.de | 2025-02-04 | pushed to branch '1941-news-importer-ui-improvement' | reconfiguring dockerfile for authentication
+1738570587 | konstantinos.tzanakis@tum.de | 2025-02-03 | pushed to branch '1941-news-importer-ui-improvement' | adding configuration for authentication
+1738313034 | konstantinos.tzanakis@tum.de | 2025-01-31 | pushed to branch '1941-news-importer-ui-improvement' | Implementing authorization using pinia
+1738231540 | konstantinos.tzanakis@tum.de | 2025-01-30 | pushed to branch '1941-news-importer-ui-improvement' | reconfiguring dockerfile to the initial state
+1738231482 | konstantinos.tzanakis@tum.de | 2025-01-30 | pushed to branch '1941-news-importer-ui-improvement' | reconfiguring the docker compose
+1738167076 | konstantinos.tzanakis@tum.de | 2025-01-29 | pushed to branch '1941-news-importer-ui-improvement' | Adjusting docker-compose yml
+1738055699 | konstantinos.tzanakis@tum.de | 2025-01-28 | pushed to branch '1941-news-importer-ui-improvement' | changed comments
+1738053901 | konstantinos.tzanakis@tum.de | 2025-01-28 | pushed to branch '1941-news-importer-ui-improvement' | It changed some empty lines of the files on save
+1738007862 | konstantinos.tzanakis@tum.de | 2025-01-27 | deleted branch 'Updating-AboutUs' | -
+1737986355 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch 'Updating-AboutUs' | changed to Former members
+1737986109 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | added the router index js for routes and temporaryauthentication
+1737985976 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | adjusted the App.vue
+1737985914 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | Converted automatically the single to double quotes
+1737985772 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | added header in the Form page
+1737985680 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | refactored header with logout button
+1737985620 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | added server and environment variables
+1737985574 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | Not sure why git shows it as changed file
+1737985047 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | added the vue router in package json
+1737984984 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | added a login page
+1737984923 | konstantinos.tzanakis@tum.de | 2025-01-27 | pushed to branch '1941-news-importer-ui-improvement' | Added the router for handling different paths
+1737967205 | konstantinos.tzanakis@tum.de | 2025-01-27 | deleted branch 'Identified-orthology-members-cache' | -
+1737964052 | konstantinos.tzanakis@tum.de | 2025-01-27 | opened branch 'Updating about us' | MergeRequest
+1737708418 | konstantinos.tzanakis@tum.de | 2025-01-24 | pushed to branch 'Updating-AboutUs' | Removed the former members card
+1737708368 | konstantinos.tzanakis@tum.de | 2025-01-24 | pushed new branch 'Updating-AboutUs' | Added all former members in Emeriti
+1737705306 | konstantinos.tzanakis@tum.de | 2025-01-24 | opened branch 'Identified orthology members cache' | MergeRequest
+1737644939 | konstantinos.tzanakis@tum.de | 2025-01-23 | pushed to branch 'Identified-orthology-members-cache' | added a control for orthogroupid
+1737644855 | konstantinos.tzanakis@tum.de | 2025-01-23 | pushed to branch 'Identified-orthology-members-cache' | refactored the identifiedMembersCount
+1737644668 | konstantinos.tzanakis@tum.de | 2025-01-23 | pushed new branch 'Identified-orthology-members-cache' | removed created hook
+1737548970 | konstantinos.tzanakis@tum.de | 2025-01-22 | pushed to branch '1941-news-importer-ui-improvement' | modified the endpoints
+1737548754 | konstantinos.tzanakis@tum.de | 2025-01-22 | pushed to branch '1941-news-importer-ui-improvement' | modified importer with new connections
+1737540201 | konstantinos.tzanakis@tum.de | 2025-01-22 | pushed to branch '1941-news-importer-ui-improvement' | Added connections to production and staging
+1737538873 | konstantinos.tzanakis@tum.de | 2025-01-22 | pushed to branch '1941-news-importer-ui-improvement' | updating main and footer
+1737452327 | konstantinos.tzanakis@tum.de | 2025-01-21 | pushed new branch '1941-news-importer-ui-improvement' | -
+1737449509 | konstantinos.tzanakis@tum.de | 2025-01-21 | deleted branch 'updating-AboutUs' | -
+1737449311 | konstantinos.tzanakis@tum.de | 2025-01-21 | opened branch 'Updating about us' | MergeRequest
+1737364761 | konstantinos.tzanakis@tum.de | 2025-01-20 | deleted branch '1934-identified-members-in-orthology-summary' | -
+1737360918 | konstantinos.tzanakis@tum.de | 2025-01-20 | pushed to branch 'updating-AboutUs' | adding new members in aboutus section
+1737360866 | konstantinos.tzanakis@tum.de | 2025-01-20 | pushed to branch 'updating-AboutUs' | adding pictures of new members
+1737114126 | konstantinos.tzanakis@tum.de | 2025-01-17 | opened branch 'Resolve "Identified members in orthology summary"' | MergeRequest
+1737109470 | konstantinos.tzanakis@tum.de | 2025-01-17 | pushed to branch 'updating-AboutUs' | updating about us section
+1737106728 | konstantinos.tzanakis@tum.de | 2025-01-17 | pushed to branch '1934-identified-members-in-orthology-summary' | Modified vue to fetch identifiedMembersCount
+1737106616 | konstantinos.tzanakis@tum.de | 2025-01-17 | pushed to branch '1934-identified-members-in-orthology-summary' | Exposing a getter and action for global access
+1737106470 | konstantinos.tzanakis@tum.de | 2025-01-17 | pushed to branch '1934-identified-members-in-orthology-summary' | added identifiedMembersCount in the submodule and cached it
+1737035145 | konstantinos.tzanakis@tum.de | 2025-01-16 | pushed to branch 'updating-AboutUs' | updated aboutus section
+1737016062 | konstantinos.tzanakis@tum.de | 2025-01-16 | pushed new branch '1934-identified-members-in-orthology-summary' | -
+1737015166 | konstantinos.tzanakis@tum.de | 2025-01-16 | pushed new branch 'updating-AboutUs' | updated About-Us section
+1736936983 | konstantinos.tzanakis@tum.de | 2025-01-15 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | Merge branch 'develop' into 1927-traffic-lights-system-for-proteins...
+1736870839 | konstantinos.tzanakis@tum.de | 2025-01-14 | deleted branch 'Fix-FDR-Estimation-Tab-for-non-identified-proteins' | -
+1736848312 | konstantinos.tzanakis@tum.de | 2025-01-14 | pushed to branch 'Fix-FDR-Estimation-Tab-for-non-identified-proteins' | Corrected by exchanging the name and uniprotid between gene and iso...
+1736847703 | konstantinos.tzanakis@tum.de | 2025-01-14 | commented on branch 'Fix fdr estimation tab for non identified proteins' | DiffNote
+1736845938 | konstantinos.tzanakis@tum.de | 2025-01-14 | deleted branch 'Additional-adjustments-for-non-identified-proteins' | -
+1736845684 | konstantinos.tzanakis@tum.de | 2025-01-14 | deleted branch 'update-news-page' | -
+1736842672 | konstantinos.tzanakis@tum.de | 2025-01-14 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | Added gene and isoform q values
+1736842292 | konstantinos.tzanakis@tum.de | 2025-01-14 | opened branch 'Fix fdr estimation tab for non identified proteins' | MergeRequest
+1736780381 | konstantinos.tzanakis@tum.de | 2025-01-13 | pushed to branch 'Fix-FDR-Estimation-Tab-for-non-identified-proteins' | Unique_identifier as fdr title if there is no gene name
+1736776030 | konstantinos.tzanakis@tum.de | 2025-01-13 | pushed to branch 'Fix-FDR-Estimation-Tab-for-non-identified-proteins' | Fixed the fdr titles for non-identified
+1736773295 | konstantinos.tzanakis@tum.de | 2025-01-13 | pushed new branch 'Fix-FDR-Estimation-Tab-for-non-identified-proteins' | Fixing the fdr titles for non-identified
+1736505219 | konstantinos.tzanakis@tum.de | 2025-01-10 | opened branch 'Update news page' | MergeRequest
+1736501550 | konstantinos.tzanakis@tum.de | 2025-01-10 | pushed to branch 'update-news-page' | added loading overlay and the top 5 in news page
+1736498363 | konstantinos.tzanakis@tum.de | 2025-01-10 | pushed new branch 'update-news-page' | added the top 5 news in home-page
+1736434405 | konstantinos.tzanakis@tum.de | 2025-01-09 | commented on branch 'Fixing the Protein Summary tab for non-identified proteins' | Note
+1736434118 | konstantinos.tzanakis@tum.de | 2025-01-09 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | added the v-cards with no-info and the 0s in statistics
+1736424911 | konstantinos.tzanakis@tum.de | 2025-01-09 | opened branch 'Fixing the Protein Summary tab for non-identified proteins' | MergeRequest
+1736422237 | konstantinos.tzanakis@tum.de | 2025-01-09 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | removed cards with no information
+1736419578 | konstantinos.tzanakis@tum.de | 2025-01-09 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | removed the console log
+1736416946 | konstantinos.tzanakis@tum.de | 2025-01-09 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | fixed the meta-tag
+1736351162 | konstantinos.tzanakis@tum.de | 2025-01-08 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | Just for debugging purposes
+1736345534 | konstantinos.tzanakis@tum.de | 2025-01-08 | deleted branch '1942-news-page' | -
+1736340772 | konstantinos.tzanakis@tum.de | 2025-01-08 | opened branch 'Resolve "News page"' | MergeRequest
+1736338387 | konstantinos.tzanakis@tum.de | 2025-01-08 | pushed to branch '1942-news-page' | Added the news page
+1736265470 | konstantinos.tzanakis@tum.de | 2025-01-07 | pushed to branch '1942-news-page' | adding a separate News page
+1736236626 | konstantinos.tzanakis@tum.de | 2025-01-07 | pushed new branch '1942-news-page' | -
+1734697498 | konstantinos.tzanakis@tum.de | 2024-12-20 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | resolving conflicts
+1734696759 | konstantinos.tzanakis@tum.de | 2024-12-20 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | Fixed meta description for the ones that do not have gene name
+1734692035 | konstantinos.tzanakis@tum.de | 2024-12-20 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | Merge branch 'develop' into Additional-adjustments-for-non-identifi...
+1734691065 | konstantinos.tzanakis@tum.de | 2024-12-20 | deleted branch '1937-getproteinsummary-gives-500-error-for-non-identified-proteins-that-do-not-have-gene-name' | -
+1734690813 | konstantinos.tzanakis@tum.de | 2024-12-20 | opened branch 'getproteinsummary gives 500 error for non-identified proteins' | MergeRequest
+1734686972 | konstantinos.tzanakis@tum.de | 2024-12-20 | pushed to branch '1937-getproteinsummary-gives-500-error-for-non-identified-proteins-that-do-not-have-gene-name' | Added control for number of projects and experiments. Also small co...
+1734686350 | konstantinos.tzanakis@tum.de | 2024-12-20 | pushed new branch '1937-getproteinsummary-gives-500-error-for-non-identified-proteins-that-do-not-have-gene-name' | -
+1734686285 | konstantinos.tzanakis@tum.de | 2024-12-20 | opened branch 'getProteinSummary gives 500 error for non-identified proteins that do not have gene name' | Issue
+1734625272 | konstantinos.tzanakis@tum.de | 2024-12-19 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | renaming column to isoform
+1734625016 | konstantinos.tzanakis@tum.de | 2024-12-19 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | resolving the title of protein summary
+1734430404 | konstantinos.tzanakis@tum.de | 2024-12-17 | pushed to branch '1929-add-redirects-for-the-old-ui-links' | redirecting projects to project and its children
+1734426174 | konstantinos.tzanakis@tum.de | 2024-12-17 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | Fixed meta description for the ones that do not have gene name
+1734337457 | konstantinos.tzanakis@tum.de | 2024-12-16 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | Corrected metatag for non-identified proteins that do not have a ge...
+1734092964 | konstantinos.tzanakis@tum.de | 2024-12-13 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | Fixed meta title for FDRs
+1734019127 | konstantinos.tzanakis@tum.de | 2024-12-12 | pushed new branch 'ortholog-help-pages' | adding ortholog help pages
+1733930129 | konstantinos.tzanakis@tum.de | 2024-12-11 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | commenting out console logs
+1733824884 | konstantinos.tzanakis@tum.de | 2024-12-10 | deleted branch 'Fixing-the-FDR-estimation-labels' | -
+1733824269 | konstantinos.tzanakis@tum.de | 2024-12-10 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | Added necessary code for traffic lights
+1733755886 | konstantinos.tzanakis@tum.de | 2024-12-09 | pushed to branch 'Fixing-the-FDR-estimation-labels' | Apply 1 suggestion(s) to 1 file(s)
+1733495340 | konstantinos.tzanakis@tum.de | 2024-12-06 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | Adjusting the names of the columns for the traffic lights
+1733495125 | konstantinos.tzanakis@tum.de | 2024-12-06 | opened branch 'Fixing the qValue label according to 0.05' | MergeRequest
+1733491479 | konstantinos.tzanakis@tum.de | 2024-12-06 | pushed new branch 'Fixing-the-FDR-estimation-labels' | Added a control for qValue. Shows not identified if it is above 0.05
+1733405637 | konstantinos.tzanakis@tum.de | 2024-12-05 | pushed new branch '1929-add-redirects-for-the-old-ui-links' | -
+1733405435 | konstantinos.tzanakis@tum.de | 2024-12-05 | pushed to branch '1927-traffic-lights-system-for-proteinsearch-table' | Added a double traffic light system in the proteinSearch table
+1733239175 | konstantinos.tzanakis@tum.de | 2024-12-03 | deleted branch 'Dose-response-curves-give-NAs' | -
+1733234643 | konstantinos.tzanakis@tum.de | 2024-12-03 | pushed to branch 'Dose-response-curves-give-NAs' | Merge branch 'Dose-response-curves-give-NAs' of gitlab.lrz.de:prdb/...
+1732873377 | konstantinos.tzanakis@tum.de | 2024-11-29 | deleted branch 'FDR-Estimation-shows-not-identified' | -
+1732871492 | konstantinos.tzanakis@tum.de | 2024-11-29 | pushed new branch '1927-traffic-lights-system-for-proteinsearch-table' | -
+1732870101 | konstantinos.tzanakis@tum.de | 2024-11-29 | opened branch 'Traffic lights system for ProteinSearch table' | Issue
+1732866394 | konstantinos.tzanakis@tum.de | 2024-11-29 | opened branch 'Fdr estimation shows not identified' | MergeRequest
+1732862506 | konstantinos.tzanakis@tum.de | 2024-11-29 | pushed to branch 'FDR-Estimation-shows-not-identified' | Removing consolelog comments
+1732786618 | konstantinos.tzanakis@tum.de | 2024-11-28 | pushed to branch 'FDR-Estimation-shows-not-identified' | We do not need the not identified label for the PSMs of gene and pr...
+1732782470 | konstantinos.tzanakis@tum.de | 2024-11-28 | deleted branch 'Organisms-undefined-in-analytics-page' | -
+1732780765 | konstantinos.tzanakis@tum.de | 2024-11-28 | commented on branch 'Fixing the undefined organisms when landing in analytics page directly' | DiscussionNote
+1732780717 | konstantinos.tzanakis@tum.de | 2024-11-28 | commented on branch 'Dose response curves give NAs' | DiffNote
+1732713701 | konstantinos.tzanakis@tum.de | 2024-11-27 | opened branch 'Dose response curves give NAs' | MergeRequest
+1732710560 | konstantinos.tzanakis@tum.de | 2024-11-27 | pushed to branch 'Dose-response-curves-give-NAs' | Fixing the double values from CA_GET_PROTEIN_EXPRESSION_DOSE_DRUG_B...
+1732648520 | konstantinos.tzanakis@tum.de | 2024-11-26 | pushed to branch 'Fix-Expression-Tab-for-non-identified-proteins' | Making sure first to see if checking for evidence is needed.
+1732283906 | konstantinos.tzanakis@tum.de | 2024-11-22 | pushed to branch 'Additional-adjustments-for-non-identified-proteins' | Added conditional statements for dealing with missing info from non...
+1732117421 | konstantinos.tzanakis@tum.de | 2024-11-20 | pushed new branch 'Fix-Expression-Tab-for-non-identified-proteins' | Pass the evidence status down to BodyMap
+1732107240 | konstantinos.tzanakis@tum.de | 2024-11-20 | pushed to branch 'FDR-Estimation-shows-not-identified' | Dealing with the negative and zero values
+1732089728 | konstantinos.tzanakis@tum.de | 2024-11-20 | pushed new branch 'Additional-adjustments-for-non-identified-proteins' | Adding control for number of project and experiments and control fo...
+1732089516 | konstantinos.tzanakis@tum.de | 2024-11-20 | deleted branch 'Fix-Expression-Tab-for-non-identified-proteins' | -
+1732012939 | konstantinos.tzanakis@tum.de | 2024-11-19 | pushed new branch 'Fix-Expression-Tab-for-non-identified-proteins' | Small change to check if there are projects and experiments
+1732008318 | konstantinos.tzanakis@tum.de | 2024-11-19 | pushed to branch 'FDR-Estimation-shows-not-identified' | fixing the not-identified label
+1731053146 | konstantinos.tzanakis@tum.de | 2024-11-08 | pushed new branch 'FDR-Estimation-shows-not-identified' | Fixing the not-identified label in fdr estimation tab
+1730992796 | konstantinos.tzanakis@tum.de | 2024-11-07 | opened branch 'Fixing the undefined organisms when landing in analytics page directly' | MergeRequest
+1730988972 | konstantinos.tzanakis@tum.de | 2024-11-07 | pushed new branch 'Organisms-undefined-in-analytics-page' | Fixing the undefined organisms when landing in analytics page directly
+1730881287 | konstantinos.tzanakis@tum.de | 2024-11-06 | pushed to branch 'Dose-response-curves-give-NAs' | Fixing the NA values in IC50Plot
+1730821791 | konstantinos.tzanakis@tum.de | 2024-11-05 | pushed new branch 'Dose-response-curves-give-NAs' | Fixing the NA values in IC50Plot
+1730793605 | konstantinos.tzanakis@tum.de | 2024-11-05 | deleted branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins' | -
+1730736800 | konstantinos.tzanakis@tum.de | 2024-11-04 | opened branch 'Resolve "Fixing the ProteinSummary for the non-identified proteins"' | MergeRequest
+1730734077 | konstantinos.tzanakis@tum.de | 2024-11-04 | pushed to branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins' | Created the sql queries for non-identified proteins regarding the S...
+1730724886 | konstantinos.tzanakis@tum.de | 2024-11-04 | deleted branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins-2' | -
+1730724602 | konstantinos.tzanakis@tum.de | 2024-11-04 | closed branch 'Draft: Resolve "Fixing the ProteinSummary Tab for the non-identified proteins"' | MergeRequest
+1730724148 | konstantinos.tzanakis@tum.de | 2024-11-04 | opened branch 'Draft: Resolve "Fixing the ProteinSummary Tab for the non-identified proteins"' | MergeRequest
+1730724111 | konstantinos.tzanakis@tum.de | 2024-11-04 | pushed new branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins-2' | -
+1730711367 | konstantinos.tzanakis@tum.de | 2024-11-04 | pushed to branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins' | Created the sql queries for non-identified proteins regarding the S...
+1730210455 | konstantinos.tzanakis@tum.de | 2024-10-29 | pushed to branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins' | Created the sql queries for non-identified proteins
+1730126834 | konstantinos.tzanakis@tum.de | 2024-10-28 | deleted branch '1920-there-are-na-values-in-the-dose-response-curve-in-the-inhibitor-potency-selectivity-analysis' | -
+1730125664 | konstantinos.tzanakis@tum.de | 2024-10-28 | opened branch 'Now it checks if there are any other 0 values for x and not only the first value.' | MergeRequest
+1730125444 | konstantinos.tzanakis@tum.de | 2024-10-28 | pushed new branch '1920-there-are-na-values-in-the-dose-response-curve-in-the-inhibitor-potency-selectivity-analysis-2' | -
+1730107298 | konstantinos.tzanakis@tum.de | 2024-10-28 | pushed to branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins' | Depicting information for the non-identified proteins
+1730106970 | konstantinos.tzanakis@tum.de | 2024-10-28 | pushed new branch '1920-there-are-na-values-in-the-dose-response-curve-in-the-inhibitor-potency-selectivity-analysis' | Now it checks if there are any other 0 values for x and not only th...
+1730106774 | konstantinos.tzanakis@tum.de | 2024-10-28 | opened branch 'There are NA values in the dose response curve in the Inhibitor potency selectivity analysis' | Issue
+1730100414 | konstantinos.tzanakis@tum.de | 2024-10-28 | pushed to branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins' | Depicting information for the non-identified proteins
+1729843346 | konstantinos.tzanakis@tum.de | 2024-10-25 | pushed new branch '1919-fixing-the-proteinsummary-for-the-non-identified-proteins' | Depicting information for the non-identified proteins
+1729842442 | konstantinos.tzanakis@tum.de | 2024-10-25 | opened branch 'Fixing the ProteinSummary for the non-identified proteins' | Issue
+1729259732 | konstantinos.tzanakis@tum.de | 2024-10-18 | opened branch 'Draft: Resolve "Color code problem between Protein Search and Protein summary"' | MergeRequest
+1729259712 | konstantinos.tzanakis@tum.de | 2024-10-18 | pushed new branch '1918-color-code-problem-between-protein-search-and-protein-summary-2' | -
+1729259137 | konstantinos.tzanakis@tum.de | 2024-10-18 | pushed new branch '1918-color-code-problem-between-protein-search-and-protein-summary' | 1918-color-code-problem-between-protein-search-and-protein-summary
+1729258789 | konstantinos.tzanakis@tum.de | 2024-10-18 | opened branch 'Color code problem between Protein Search and Protein summary' | Issue
+1728479469 | konstantinos.tzanakis@tum.de | 2024-10-09 | opened branch 'Draft: Resolve "Cannot read properties of undefined (reading 'length') at hasDrugInfo"' | MergeRequest
+1728479436 | konstantinos.tzanakis@tum.de | 2024-10-09 | pushed new branch '1917-cannot-read-properties-of-undefined-reading-length-at-hasdruginfo-2' | -
+1728478620 | konstantinos.tzanakis@tum.de | 2024-10-09 | opened branch 'Draft: Resolve "getCurveInformationByProteinID.xsjs gives a 500 error"' | MergeRequest
+1728478563 | konstantinos.tzanakis@tum.de | 2024-10-09 | pushed new branch '1916-getcurveinformationbyproteinid-xsjs-gives-a-500-error-2' | -
+1728475965 | konstantinos.tzanakis@tum.de | 2024-10-09 | pushed new branch '1917-cannot-read-properties-of-undefined-reading-length-at-hasdruginfo' | Added a ? to check if drugName exists
+1728475465 | konstantinos.tzanakis@tum.de | 2024-10-09 | opened branch 'Cannot read properties of undefined (reading 'length') at hasDrugInfo' | Issue
+1728475017 | konstantinos.tzanakis@tum.de | 2024-10-09 | pushed new branch '1916-getcurveinformationbyproteinid-xsjs-gives-a-500-error' | The SelectivityIC50PlotWrapper sends a drug_id as a parameter but t...
+1728474377 | konstantinos.tzanakis@tum.de | 2024-10-09 | opened branch 'getCurveInformationByProteinID.xsjs gives a 500 error' | Issue
+1719216186 | konstantinos.tzanakis@tum.de | 2024-06-24 | opened branch 'removing null links' | MergeRequest
+1719216094 | konstantinos.tzanakis@tum.de | 2024-06-24 | pushed new branch 'remove-nulls-from-external-links' | removing null links until we handle the different cases of having o...
+1716902781 | konstantinos.tzanakis@tum.de | 2024-05-28 | opened branch 'Boolean was added in the disabled property of the button that changes when the...' | MergeRequest
+1716894860 | konstantinos.tzanakis@tum.de | 2024-05-28 | pushed new branch '1898-load-selection-button-is-stuck-in-loading-when-no-biological-source-is-selected' | Boolean was added in the disabled property of the button that chang...
+1716894377 | konstantinos.tzanakis@tum.de | 2024-05-28 | opened branch 'Load selection button is stuck in loading when no biological source is selected' | Issue
+1716556010 | konstantinos.tzanakis@tum.de | 2024-05-24 | opened branch 'Resolve "Zero count on disabled ProteaseMap"' | MergeRequest
+1716554989 | konstantinos.tzanakis@tum.de | 2024-05-24 | pushed to branch '1891-zero-count-on-disabled-proteasemap' | commenting out the VUE_APP_API_HOST q01 version2
+1716554857 | konstantinos.tzanakis@tum.de | 2024-05-24 | pushed to branch '1891-zero-count-on-disabled-proteasemap' | commenting out the VUE_APP_API_HOST q01
+1716553301 | konstantinos.tzanakis@tum.de | 2024-05-24 | pushed new branch '1891-zero-count-on-disabled-proteasemap' | Added a conditional statement which checks if the item is disabled ...
+1716553028 | konstantinos.tzanakis@tum.de | 2024-05-24 | opened branch 'Zero count on disabled ProteaseMap' | Issue
+1716473653 | konstantinos.tzanakis@tum.de | 2024-05-23 | opened branch 'It happens because there are no ideas. Added a conditional statement regarding...' | MergeRequest
+1716470346 | konstantinos.tzanakis@tum.de | 2024-05-23 | pushed new branch '1890-community-page-with-internal-server-error-500' | It happens because there are no ideas. Added a conditional statemen...
+1716470163 | konstantinos.tzanakis@tum.de | 2024-05-23 | opened branch 'community page with internal server error 500' | Issue
+1716378951 | konstantinos.tzanakis@tum.de | 2024-05-22 | pushed to branch '1882-description-meta-tags' | meaningful description meta tag for proteinsummary
+1716363927 | konstantinos.tzanakis@tum.de | 2024-05-22 | opened branch 'It seems that the location in the response headers was changed' | MergeRequest
+1716360810 | konstantinos.tzanakis@tum.de | 2024-05-22 | pushed new branch '1886-experiment-design-in-meltome-and-targets-modules-gives-301' | It seems that the location in the response headers was changed
+1716360415 | konstantinos.tzanakis@tum.de | 2024-05-22 | opened branch 'Experiment design in Meltome and Targets modules gives 301' | Issue
+1716300485 | konstantinos.tzanakis@tum.de | 2024-05-21 | opened branch 'fixed the elasticlogo image issue in P-sites interactions page' | MergeRequest
+1716298075 | konstantinos.tzanakis@tum.de | 2024-05-21 | pushed new branch '1885-elasticlog-image-not-shown' | fixed the elasticlogo image issue in P-sites interactions page
+1716297509 | konstantinos.tzanakis@tum.de | 2024-05-21 | opened branch 'elasticLog-image-not-shown' | Issue
+1716296229 | konstantinos.tzanakis@tum.de | 2024-05-21 | opened branch 'updated the description meta tags' | MergeRequest
+1716295181 | konstantinos.tzanakis@tum.de | 2024-05-21 | opened branch 'Draft: Resolve "Description meta tags"' | MergeRequest
+1716295080 | konstantinos.tzanakis@tum.de | 2024-05-21 | pushed new branch '1882-description-meta-tags-2' | -
+1716293325 | konstantinos.tzanakis@tum.de | 2024-05-21 | pushed new branch '1882-description-meta-tags' | updated the description meta tags
+1715933906 | konstantinos.tzanakis@tum.de | 2024-05-17 | opened branch 'Sample expression bar doesnt update' | MergeRequest
+1715933433 | konstantinos.tzanakis@tum.de | 2024-05-17 | pushed new branch 'sample-expression-bar-doesnt-update' | fixed the update on the sample expression bar
+1715850242 | konstantinos.tzanakis@tum.de | 2024-05-16 | pushed to branch '1877-undefined-error-in-protein-view' | Resolved the order of loading and undefined protein pages by moving...
+1715782222 | konstantinos.tzanakis@tum.de | 2024-05-15 | commented on branch 'Resolve ""undefined" error in protein view"' | Note
+1715778001 | konstantinos.tzanakis@tum.de | 2024-05-15 | pushed to branch '1877-undefined-error-in-protein-view' | resolve the undefined-error-in-protein-view
+1715613675 | konstantinos.tzanakis@tum.de | 2024-05-13 | pushed to branch 'dynamic_tab' | Dynamic tab titles for all pages - correcting after code review
+1715607169 | konstantinos.tzanakis@tum.de | 2024-05-13 | opened branch 'Dynamic tab titles for all pages' | MergeRequest
+1715604938 | konstantinos.tzanakis@tum.de | 2024-05-13 | pushed to branch 'dynamic_tab' | Dynamic tab titles for all pages - correcting metainfos and conditi...
+1715326213 | konstantinos.tzanakis@tum.de | 2024-05-10 | pushed to branch 'dynamic_tab' | Dynamic tab titles for all modules - correcting metainfos
+1715173108 | konstantinos.tzanakis@tum.de | 2024-05-08 | pushed new branch 'dynamic_tab' | Dynamic tab titles for all modules
