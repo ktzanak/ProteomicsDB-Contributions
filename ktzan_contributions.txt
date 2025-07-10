@@ -1,3 +1,16 @@
+1752043096 | konstantinos.tzanakis@tum.de | 2025-07-09 | pushed new branch 'Cell-sensitivity-tab-for-drug-view' | -
+1751982259 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new hdb procedure for finding omic types for cell-lines
+1751982210 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new hdb procedure for finding units for omic
+1751982102 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new wrapper calculation view for omic units of cell-lines
+1751982065 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new wrapper calculation view for omic types of cell-lines
+1751981979 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new wrapper calculation view for expression profile of cell-lines
+1751981918 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new wrapper calculation view for check data of cell-lines
+1751981809 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | adjusted hdbview to include tissue_ids
+1751981711 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | replaced SelectMultipleAll with v-autocomplete and added overlays
+1751981546 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | adjusted requests according to renamed xsodata service
+1751981451 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | updated privileges for cell-line expression
+1751894290 | konstantinos.tzanakis@tum.de | 2025-07-07 | pushed to branch 'Expression-tab-for-cell-line-view' | histogram is drawn on selecting protein
+1751623275 | konstantinos.tzanakis@tum.de | 2025-07-04 | pushed to branch 'Expression-tab-for-cell-line-view' | chart is drawn if a protein is selected
 1751528732 | konstantinos.tzanakis@tum.de | 2025-07-03 | pushed to branch 'Expression-tab-for-cell-line-view' | the protein list is emitted from the child component
 1751528639 | konstantinos.tzanakis@tum.de | 2025-07-03 | pushed to branch 'Expression-tab-for-cell-line-view' | initialize the celllineExpressionHistogram
 1751447703 | konstantinos.tzanakis@tum.de | 2025-07-02 | pushed to branch 'Expression-tab-for-cell-line-view' | adjusted reference of xsodata service since now it also calls for e...
