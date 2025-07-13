@@ -1,3 +1,27 @@
+1752246670 | konstantinos.tzanakis@tum.de | 2025-07-11 | deleted branch 'Expression-tab-for-cell-line-view' | -
+1752246646 | konstantinos.tzanakis@tum.de | 2025-07-11 | deleted branch 'Cell-Perturbation-for-cell-line-view' | -
+1752235385 | konstantinos.tzanakis@tum.de | 2025-07-11 | pushed to branch 'Perturbation-meltome-turnover-expression-for-cell-line' | changed to the original .env file
+1752235101 | konstantinos.tzanakis@tum.de | 2025-07-11 | pushed to branch 'Perturbation-meltome-turnover-expression-for-cell-line' | merged all 4 branches
+1752234240 | konstantinos.tzanakis@tum.de | 2025-07-11 | pushed new branch 'Perturbation-meltome-turnover-expression-for-cell-line' | merging cell perturbation to new branch
+1752221071 | konstantinos.tzanakis@tum.de | 2025-07-11 | deleted branch 'Meltome-tab-for-cell-line-view' | -
+1752221070 | konstantinos.tzanakis@tum.de | 2025-07-11 | accepted branch 'Meltome tab for cell line view' | MergeRequest
+1752221070 | konstantinos.tzanakis@tum.de | 2025-07-11 | pushed to branch 'Cell-Perturbation-for-cell-line-view' | Merge branch 'Meltome-tab-for-cell-line-view' into 'Cell-Perturbati...
+1752221048 | konstantinos.tzanakis@tum.de | 2025-07-11 | approved branch 'Meltome tab for cell line view' | MergeRequest
+1752219974 | konstantinos.tzanakis@tum.de | 2025-07-11 | pushed to branch 'Meltome-tab-for-cell-line-view' | Merge branch 'Cell-Perturbation-for-cell-line-view' into 'Meltome-t...
+1752219535 | konstantinos.tzanakis@tum.de | 2025-07-11 | opened branch 'Meltome tab for cell line view' | MergeRequest
+1752218506 | konstantinos.tzanakis@tum.de | 2025-07-11 | closed branch 'Cell perturbation for cell line view' | MergeRequest
+1752218326 | konstantinos.tzanakis@tum.de | 2025-07-11 | deleted branch 'Turnover-tab-for-cell-line-view' | -
+1752218324 | konstantinos.tzanakis@tum.de | 2025-07-11 | accepted branch 'Turnover and Meltome tab for cell line view' | MergeRequest
+1752218324 | konstantinos.tzanakis@tum.de | 2025-07-11 | pushed to branch 'Meltome-tab-for-cell-line-view' | Merge branch 'Turnover-tab-for-cell-line-view' into 'Meltome-tab-fo...
+1752217743 | konstantinos.tzanakis@tum.de | 2025-07-11 | approved branch 'Turnover and Meltome tab for cell line view' | MergeRequest
+1752163411 | konstantinos.tzanakis@tum.de | 2025-07-10 | pushed to branch 'Turnover-tab-for-cell-line-view' | Merge branch 'Meltome-tab-for-cell-line-view' into 'Turnover-tab-fo...
+1752162989 | konstantinos.tzanakis@tum.de | 2025-07-10 | opened branch 'Turnover and Meltome tab for cell line view' | MergeRequest
+1752162767 | konstantinos.tzanakis@tum.de | 2025-07-10 | closed branch 'Turnover tab for cell line view' | MergeRequest
+1752162736 | konstantinos.tzanakis@tum.de | 2025-07-10 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | added cellSensitivity tab
+1752161753 | konstantinos.tzanakis@tum.de | 2025-07-10 | approved branch 'Turnover tab for cell line view' | MergeRequest
+1752144936 | konstantinos.tzanakis@tum.de | 2025-07-10 | approved branch 'Turnover tab for cell line view' | MergeRequest
+1752142895 | konstantinos.tzanakis@tum.de | 2025-07-10 | pushed to branch 'Turnover-tab-for-cell-line-view' | Merge branch 'Expression-tab-for-cell-line-view' into 'Turnover-tab...
+1752141488 | konstantinos.tzanakis@tum.de | 2025-07-10 | opened branch 'Turnover tab for cell line view' | MergeRequest
 1752043096 | konstantinos.tzanakis@tum.de | 2025-07-09 | pushed new branch 'Cell-sensitivity-tab-for-drug-view' | -
 1751982259 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new hdb procedure for finding omic types for cell-lines
 1751982210 | konstantinos.tzanakis@tum.de | 2025-07-08 | pushed to branch 'Expression-tab-for-cell-line-view' | new hdb procedure for finding units for omic
