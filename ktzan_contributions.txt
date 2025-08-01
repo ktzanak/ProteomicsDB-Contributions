@@ -1,3 +1,13 @@
+1753946775 | konstantinos.tzanakis@tum.de | 2025-07-31 | opened branch 'Perturbation meltome turnover expression for cell line' | MergeRequest
+1753885658 | konstantinos.tzanakis@tum.de | 2025-07-30 | commented on branch 'Draft: Cell sensitivity tab for drug view' | Note
+1753695610 | konstantinos.tzanakis@tum.de | 2025-07-28 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | removed unnecessary debugging console logs
+1753695280 | konstantinos.tzanakis@tum.de | 2025-07-28 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | adopted analytics strategy and filter with the drugId
+1753695209 | konstantinos.tzanakis@tum.de | 2025-07-28 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | changed to the analytics strategy
+1753275476 | konstantinos.tzanakis@tum.de | 2025-07-23 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | added dragName to the getters
+1753173727 | konstantinos.tzanakis@tum.de | 2025-07-22 | pushed to branch 'Perturbation-meltome-turnover-expression-for-cell-line' | Make sure .env.development is the same
+1753081909 | konstantinos.tzanakis@tum.de | 2025-07-21 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | initial draft for cell-sensitivity tab vue
+1752822796 | konstantinos.tzanakis@tum.de | 2025-07-18 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | initial draft for cellSensitivity tab
+1752563863 | konstantinos.tzanakis@tum.de | 2025-07-15 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | cell sensitivity route for drug view
 1752246670 | konstantinos.tzanakis@tum.de | 2025-07-11 | deleted branch 'Expression-tab-for-cell-line-view' | -
 1752246646 | konstantinos.tzanakis@tum.de | 2025-07-11 | deleted branch 'Cell-Perturbation-for-cell-line-view' | -
 1752235385 | konstantinos.tzanakis@tum.de | 2025-07-11 | pushed to branch 'Perturbation-meltome-turnover-expression-for-cell-line' | changed to the original .env file
