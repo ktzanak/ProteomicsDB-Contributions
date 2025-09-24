@@ -1,5 +1,20 @@
+1758271918 | konstantinos.tzanakis@tum.de | 2025-09-19 | pushed to branch 'feature/migrate_cell_line_view' | delete old wrappers no longer in use
+1758271856 | konstantinos.tzanakis@tum.de | 2025-09-19 | pushed to branch 'feature/migrate_cell_line_view' | delete old xsodata services that were merged in one cell perturbation
+1758271794 | konstantinos.tzanakis@tum.de | 2025-09-19 | pushed to branch 'feature/migrate_cell_line_view' | updated privileges without old wrappers
+1758206318 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | converted graphical treatment tissue by protein id for curves wrapp...
+1758206268 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | converted graphical protein expression dose drug by protein id wrap...
+1758206222 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | converted graphical protein curves wrapper into an sql-based wrapper
+1758206190 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | converted graphical mod peptide curve on protein level wrapper into...
+1758206117 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | converted graphical modified peptide curves wrapper into an sql-bas...
+1758206062 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | converted graphical fitted params wrapper into an sql-based wrapper
+1758206028 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | converted graphical curve properties wrapper into an sql-based wrapper
+1758205894 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | merged all xsodata services into one regarding cell perturbation
+1758205839 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | referenced the new wrappers for turnover meltome
+1758205777 | konstantinos.tzanakis@tum.de | 2025-09-18 | pushed to branch 'feature/migrate_cell_line_view' | privileges for new wrappers
+1758118299 | konstantinos.tzanakis@tum.de | 2025-09-17 | pushed to branch 'feature/migrate_cell_line_view' | modified the requests to the new xsodata service for cell perturbat...
+1758118270 | konstantinos.tzanakis@tum.de | 2025-09-17 | pushed to branch 'feature/migrate_cell_line_view' | modified the requests to the new xsodata service for cell perturbation
 1753946775 | konstantinos.tzanakis@tum.de | 2025-07-31 | opened branch 'Perturbation meltome turnover expression for cell line' | MergeRequest
-1753885658 | konstantinos.tzanakis@tum.de | 2025-07-30 | commented on branch 'Draft: Cell sensitivity tab for drug view' | Note
+1753885658 | konstantinos.tzanakis@tum.de | 2025-07-30 | commented on branch 'Cell sensitivity tab for drug view' | Note
 1753695610 | konstantinos.tzanakis@tum.de | 2025-07-28 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | removed unnecessary debugging console logs
 1753695280 | konstantinos.tzanakis@tum.de | 2025-07-28 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | adopted analytics strategy and filter with the drugId
 1753695209 | konstantinos.tzanakis@tum.de | 2025-07-28 | pushed to branch 'Cell-sensitivity-tab-for-drug-view' | changed to the analytics strategy
