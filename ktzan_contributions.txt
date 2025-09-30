@@ -1,3 +1,6 @@
+1758872787 | konstantinos.tzanakis@tum.de | 2025-09-26 | opened branch 'adjusted indexes of columns from oResultSet' | MergeRequest
+1758810467 | konstantinos.tzanakis@tum.de | 2025-09-25 | pushed to branch 'getDDFPProtein-gives-500-error' | adjusted indexes of columns from oResultSet
+1758810076 | konstantinos.tzanakis@tum.de | 2025-09-25 | pushed new branch 'getDDFPProtein-gives-500-error' | -
 1758271918 | konstantinos.tzanakis@tum.de | 2025-09-19 | pushed to branch 'feature/migrate_cell_line_view' | delete old wrappers no longer in use
 1758271856 | konstantinos.tzanakis@tum.de | 2025-09-19 | pushed to branch 'feature/migrate_cell_line_view' | delete old xsodata services that were merged in one cell perturbation
 1758271794 | konstantinos.tzanakis@tum.de | 2025-09-19 | pushed to branch 'feature/migrate_cell_line_view' | updated privileges without old wrappers
