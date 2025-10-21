@@ -1,3 +1,20 @@
+1761033587 | konstantinos.tzanakis@tum.de | 2025-10-21 | deleted branch 'hotfix-in-the-ddptm-of-cell-line-view' | -
+1761033586 | konstantinos.tzanakis@tum.de | 2025-10-21 | accepted branch 'Forgot to change to the curves_drugs_proteins in cellline-centric' | MergeRequest
+1761033586 | konstantinos.tzanakis@tum.de | 2025-10-21 | pushed to branch 'develop' | Merge branch 'hotfix-in-the-ddptm-of-cell-line-view' into 'develop'
+1761031384 | konstantinos.tzanakis@tum.de | 2025-10-21 | approved branch 'Forgot to change to the curves_drugs_proteins in cellline-centric' | MergeRequest
+1761031279 | konstantinos.tzanakis@tum.de | 2025-10-21 | opened branch 'Forgot to change to the curves_drugs_proteins in cellline-centric' | MergeRequest
+1761027169 | konstantinos.tzanakis@tum.de | 2025-10-21 | pushed to branch 'hotfix-in-the-ddptm-of-cell-line-view' | Forgot to change to the curves_drugs_proteins in cellline-centric
+1761026761 | konstantinos.tzanakis@tum.de | 2025-10-21 | pushed new branch 'hotfix-in-the-ddptm-of-cell-line-view' | -
+1760947672 | konstantinos.tzanakis@tum.de | 2025-10-20 | deleted branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | -
+1760947667 | konstantinos.tzanakis@tum.de | 2025-10-20 | pushed to branch 'develop' | Merge branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-...
+1760947666 | konstantinos.tzanakis@tum.de | 2025-10-20 | accepted branch 'Parsing of cellline_ids is merged straight in the WORKERs' | MergeRequest
+1760947625 | konstantinos.tzanakis@tum.de | 2025-10-20 | approved branch 'Parsing of cellline_ids is merged straight in the WORKERs' | MergeRequest
+1760688942 | konstantinos.tzanakis@tum.de | 2025-10-17 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | added the placeholders for input params
+1760688890 | konstantinos.tzanakis@tum.de | 2025-10-17 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | converted start end positions and upstream kinases to nvarchar due ...
+1760687263 | konstantinos.tzanakis@tum.de | 2025-10-17 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | removed old wrapper from privileges
+1760687211 | konstantinos.tzanakis@tum.de | 2025-10-17 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | cell-line ptm endpoints with constant params
+1760616090 | konstantinos.tzanakis@tum.de | 2025-10-16 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | deleted old wrapper for ddPTM since it not used anymore
+1760616024 | konstantinos.tzanakis@tum.de | 2025-10-16 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | xsodata service now calls straight the worker for ddPTM
 1760430113 | konstantinos.tzanakis@tum.de | 2025-10-14 | opened branch 'Parsing of cellline_ids is merged straight in the WORKERs' | MergeRequest
 1760096801 | konstantinos.tzanakis@tum.de | 2025-10-10 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | added the cellline_id_in parsing in this level
 1760096747 | konstantinos.tzanakis@tum.de | 2025-10-10 | pushed to branch 'Optimization-of-CellPerturbation-Meltome-Turnover-in-CellLine-view' | added cellline_id_in as input variable
