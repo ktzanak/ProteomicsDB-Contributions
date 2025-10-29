@@ -1,3 +1,12 @@
+1761744442 | konstantinos.tzanakis@tum.de | 2025-10-29 | pushed to branch 'vue-migration' | Debian bullseye moved from active support to LTS
+1761236864 | konstantinos.tzanakis@tum.de | 2025-10-23 | deleted branch 'hotfix-in-CA-fitted-parameters-worker-in-cellline-view' | -
+1761236862 | konstantinos.tzanakis@tum.de | 2025-10-23 | accepted branch 'moved the optimization of target retrieval to the ELSE block' | MergeRequest
+1761236862 | konstantinos.tzanakis@tum.de | 2025-10-23 | pushed to branch 'develop' | Merge branch 'hotfix-in-CA-fitted-parameters-worker-in-cellline-vie...
+1761234370 | konstantinos.tzanakis@tum.de | 2025-10-23 | approved branch 'moved the optimization of target retrieval to the ELSE block' | MergeRequest
+1761234349 | konstantinos.tzanakis@tum.de | 2025-10-23 | opened branch 'moved the optimization of target retrieval to the ELSE block' | MergeRequest
+1761221193 | konstantinos.tzanakis@tum.de | 2025-10-23 | pushed to branch 'hotfix-in-CA-fitted-parameters-worker-in-cellline-view' | moved the optimization of target retrieval to the ELSE block
+1761219472 | konstantinos.tzanakis@tum.de | 2025-10-23 | pushed new branch 'hotfix-in-CA-fitted-parameters-worker-in-cellline-view' | -
+1761121480 | konstantinos.tzanakis@tum.de | 2025-10-22 | opened branch 'Test vue-migration branch for conflicts - NOT TO BE MERGED' | MergeRequest
 1761033587 | konstantinos.tzanakis@tum.de | 2025-10-21 | deleted branch 'hotfix-in-the-ddptm-of-cell-line-view' | -
 1761033586 | konstantinos.tzanakis@tum.de | 2025-10-21 | accepted branch 'Forgot to change to the curves_drugs_proteins in cellline-centric' | MergeRequest
 1761033586 | konstantinos.tzanakis@tum.de | 2025-10-21 | pushed to branch 'develop' | Merge branch 'hotfix-in-the-ddptm-of-cell-line-view' into 'develop'
